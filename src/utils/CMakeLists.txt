@@ -1,0 +1,7 @@
+add_subdirectory(binary_tree)
+add_subdirectory(avl_tree)
+add_subdirectory(binary_node)
+add_subdirectory(list)
+add_subdirectory(stack)
+add_subdirectory(serializing)
+add_subdirectory(queue)
